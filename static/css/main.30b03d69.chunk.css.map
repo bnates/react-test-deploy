@@ -1,0 +1,1 @@
+{"version":3,"sources":["style/_base.scss","style/_vars.scss"],"names":[],"mappings":"AAEA,KACE,UCFoB","file":"main.30b03d69.chunk.css","sourcesContent":["@import 'vars';\n\nspan {\n  color: $secondary-color;\n}","$primary-color: blue;\n$secondary-color: pink;"]}
